@@ -1,1 +1,1 @@
-# java_learned_from_course
+# java_project
